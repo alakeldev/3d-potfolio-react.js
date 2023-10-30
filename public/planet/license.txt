@@ -1,0 +1,11 @@
+Model Information:
+* title:	Earth (Blender) (Eevee)
+* source:	https://sketchfab.com/3d-models/earth-blender-eevee-daf2f089adbe480d9452a9994965fdf2
+* author:	Just_Jory (https://sketchfab.com/Just_Jory)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Earth (Blender) (Eevee)" (https://sketchfab.com/3d-models/earth-blender-eevee-daf2f089adbe480d9452a9994965fdf2) by Just_Jory (https://sketchfab.com/Just_Jory) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
